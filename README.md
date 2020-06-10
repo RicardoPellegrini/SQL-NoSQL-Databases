@@ -1,2 +1,3 @@
-# SQL-noSQL-Databases
+# Trabalhos com SQL e NoSQL
 Trabalhos utilizando diferentes linguagens SQL e noSQL.
+Em breve...
